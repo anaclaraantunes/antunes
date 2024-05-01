@@ -1,25 +1,18 @@
-body{ 
-    background: #cccccc
+ .cabeçalho{
+    background-color: #424E61;
+    color:white ;
 }
 
-#banner{
-
+ .cabeçalho-imagem{
+    color: width;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
-
-
-
-h1 {
-    text-align: center;
-}
-
-p{}
-
-
-
-#missao{
-    font-size: 20px;
-}
-
- em strong{
-    color: #FF0000;
-} 
+  .cabeçalho-imagem{
+    width: 20%;
+  }
+  .cabeçalho-lista-imagem{
+    display: inline-block;
+    margin: 0 16px;
+  }
